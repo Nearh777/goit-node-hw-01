@@ -1,5 +1,7 @@
 1. # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 node index.js --action="list" -   https://ibb.co/dQSvH00
+
+
 2. # Отримуємо контакт по id і виводимо у консоль об'єкт контакту або null, якщо контакту з таким id не існує.
 node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6 - https://ibb.co/xgFdDFq
 
